@@ -1,0 +1,640 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .header-cnt h4 {
+        font-size: 65px;
+    }
+    .header-cnt {
+        padding: 150px 0 300px;
+    }
+    .rocket-right img {
+        max-width: 550px;
+        right: 0px;
+        top: -100px;
+    }
+    .rocket-left p {
+        top: 50px;
+        font-size: 20px;
+    }
+    .rocket-area {
+        margin-top: -500px;
+    }
+    .rocket-main {
+        padding: 300px 0 100px;
+    }
+    .seo-area {
+        padding: 300px 0 120px;
+        margin-top: -140px;
+    }
+    .seo-cnt {
+        max-width: 1000px;
+    }
+    .seo-cnt h2 {
+        font-size: 60px;
+    }
+    .seo-cnt p {
+        font-size: 18px;
+    }
+    .apart-item {
+        padding: 30px 12px;
+        min-height: 420px;
+    }
+    .apart-item img {
+        max-width: 130px;
+        margin-top: -100px;
+        margin-left: -10px
+    }
+    .apart-item h4 {
+        font-size: 30px;
+    }
+    .apart-item p {
+        font-size: 15px;
+    }
+    .apart-area {
+        padding: 100px 0 380px;
+    }
+    .apart-upper {
+        padding-bottom: 90px;
+    }
+    .service-upper h2 {
+        font-size: 50px;
+    }
+    .service-item {
+        padding: 30px 20px;
+    }
+    .service-area {
+        padding: 250px 0 370px;
+    }
+    .expert-left h4 {
+        font-size: 50px;
+    }
+    .expert-left p {
+        font-size: 18px;
+    }
+    .expert-left ul li a,
+    .expert-left ul li {
+        font-size: 16px;
+    }
+    .business-cnt h2 {
+        font-size: 60px;
+    }
+    .footer-area {
+        padding: 420px 0 50px;
+    }
+    .footer-item img {
+        max-width: 180px;
+    }
+    .footer-item p {
+        font-size: 15px;
+    }
+    .footer-item h4 {
+        font-size: 24px;
+    }
+    .footer-item ul li a {
+        font-size: 16px;
+    }
+    .social-media ul li img {
+        max-width: 55px;
+    }
+    .social-media ul li {
+        padding-right: 25px;
+    }
+
+    .headcnt-left h4 {
+        font-size: 46px;
+    }
+
+    .rokcnt-left h4  {
+        font-size: 56px;
+    }
+
+    .rokcnt-right p {
+        font-size: 20px;
+    }
+
+    .mission-right {
+        padding: 50px 40px;
+        padding-left: 60px;
+    }
+
+    .mission-right h4 {
+        font-size: 56px;
+    }
+
+    .mission-right p {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    .mission-area {
+        padding: 300px 0 90px;
+        position: relative;
+        margin-top: -150px;
+    }
+
+    .choose-areab h2 {
+        font-size: 52px;
+        margin-bottom: 30px;
+    }
+
+    .choose-areab p {
+        font-size: 21px;    
+    }
+
+
+    .choose-areab .container {
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar-nav li {
+        padding: 10px 5px;
+    }
+    .header-cnt h4 {
+        font-size: 50px;
+    }
+    .header-cnt p {
+        font-size: 26px;
+    }
+    .header-cnt {
+        padding: 110px 0 300px;
+    }
+    .rocket-right img {
+        max-width: 500px;
+        right: 0px;
+        top: -100px;
+    }
+    .rocket-left p {
+        top: 50px;
+        font-size: 17px;
+    }
+    .rocket-area {
+        margin-top: -450px;
+    }
+    .rocket-main {
+        padding: 180px 0 85px;
+    }
+    .seo-area {
+        padding: 250px 0 100px;
+        margin-top: -150px;
+    }
+    .seo-cnt {
+        max-width: 1000px;
+    }
+    .seo-cnt h2 {
+        font-size: 50px;
+    }
+    .seo-cnt p {
+        font-size: 17px;
+    }
+    .apart-item {
+        padding: 30px 12px;
+        min-height: 375px;
+    }
+    .apart-item img {
+        max-width: 100px;
+        margin-top: -90px;
+        margin-left: -4px
+    }
+    .apart-item h4 {
+        font-size: 25px;
+    }
+    .apart-item p {
+        font-size: 13px;
+    }
+    .apart-area {
+        padding: 80px 0 350px;
+    }
+    .apart-upper {
+        padding-bottom: 70px;
+    }
+    .apart-area .row>div {
+        padding: 0 8px;
+    }
+    .apart-upper h2 {
+        font-size: 52px;
+    }
+    .service-upper h2 {
+        font-size: 40px;
+    }
+    .service-item {
+        padding: 25px 5px;
+    }
+    .service-area {
+        padding: 220px 0 340px;
+    }
+    .service-item img {
+        max-width: 54px;
+    }
+    .service-item h4 {
+        font-size: 25px;
+    }
+    .service-item p {
+        font-size: 15px;
+    }
+    .service-upper {
+        padding-bottom: 40px;
+    }
+    .expert-left h4 {
+        font-size: 30px;
+    }
+    .expert-left p {
+        font-size: 15px;
+        margin: 20px 0;
+    }
+    .expert-left ul li a,
+    .expert-left ul li {
+        font-size: 14px;
+    }
+    .expert-area {
+        padding: 280px 0 85px;
+    }
+    .expert-right img {
+        margin-top: -150px;
+    }
+    .business-cnt h2 {
+        font-size: 45px;
+    }
+    .business-cnt p {
+        font-size: 18px;
+    }
+    .bus-overlay {
+        padding: 80px 0 70px;
+    }
+    .contact-upper h2 {
+        font-size: 60px;
+    }
+    .footer-area {
+        padding: 450px 0 50px;
+    }
+    .footer-item img {
+        max-width: 180px;
+    }
+    .footer-item p {
+        font-size: 15px;
+    }
+    .footer-item h4 {
+        font-size: 24px;
+    }
+    .footer-item ul li a {
+        font-size: 16px;
+    }
+    .social-media ul li img {
+        max-width: 55px;
+    }
+    .social-media ul li {
+        padding-right: 25px;
+    }
+    .footer-item {
+        margin-top: 30px;
+    }
+    .navbar-nav li .dropdown-menu {
+        max-width: 200px;
+    }
+
+    .headcnt-left h4 {
+        font-size: 34px;
+    }
+
+    .rokcnt-left h4  {
+        font-size: 40px;
+    }
+
+    .rokcnt-right p {
+        font-size: 16px;
+    }
+
+    .mission-right {
+        padding: 30px 15px;
+        padding-left: 30px;
+    }
+
+    .mission-right h4 {
+        font-size: 40px;
+    }
+
+    .mission-right p {
+        font-size: 15px;
+        margin-top: 10px;
+    }
+
+    .mission-area {
+        padding: 250px 0 90px;
+        position: relative;
+        margin-top: -150px;
+    }
+
+    .mission-left {
+        margin-right: -25px;
+        margin-top: -20px;
+    }
+
+    .choose-areab h2 {
+        font-size: 46px;
+        margin-bottom: 30px;
+    }
+
+    .choose-areab p {
+        font-size: 18px;    
+    }
+
+    .choose-areab .container {
+        max-width: 750px;
+        margin: 0 auto;
+    }
+
+    .choose-areab {
+        padding: 85px 0;
+    }
+
+    .choose-areab span {
+        width: 200px;
+    }
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+
+@media screen and (max-width: 767px) {
+    .header-area {
+        padding: 20px 0;
+    }
+    .navbar-brand img {
+        max-width: 150px;
+    }
+    .navbar-nav li {
+        padding: 10px 2px;
+    }
+    .header-cnt h4 {
+        font-size: 30px;
+    }
+    .header-cnt p {
+        font-size: 20px;
+    }
+    .header-cnt {
+        padding: 70px 0 300px;
+    }
+    .rocket-right img {
+        max-width: 450px;
+        right: 0px;
+        top: -80px;
+        left: -70px;
+    }
+    .rocket-left p {
+        top: -60px;
+        font-size: 15px;
+    }
+    .rocket-area {
+        margin-top: -450px;
+        background-size: cover;
+        background-position: 25%;
+    }
+    .rocket-main {
+        padding: 180px 0 100px;
+    }
+    .seo-area {
+        padding: 280px 0 70px;
+        margin-top: -170px;
+        background-position: 25%;
+    }
+    .seo-cnt h2 {
+        font-size: 30px;
+    }
+    .seo-cnt p {
+        font-size: 16px;
+    }
+    .apart-item {
+        padding: 30px 20px 40px;
+        max-width: 350px;
+        margin: 50px auto;
+    }
+    .apart-item img {
+        max-width: 130px;
+        margin-top: -100px;
+        margin-left: -10px
+    }
+    .apart-item h4 {
+        font-size: 36px;
+    }
+    .apart-item p {
+        font-size: 16px;
+    }
+    .apart-area {
+        padding: 60px 0 280px;
+    }
+    .apart-upper {
+        padding-bottom: 25px;
+    }
+    .apart-upper h2 {
+        font-size: 36px;
+    }
+    .service-upper h2 {
+        font-size: 35px;
+    }
+    .service-item {
+        padding: 25px 5px;
+    }
+    .service-area {
+        padding: 200px 0 340px;
+        background-size: cover;
+    }
+    .service-item h4 {
+        font-size: 30px;
+    }
+    .service-item p {
+        font-size: 16px;
+    }
+    .service-upper {
+        padding-bottom: 40px;
+    }
+    .expert-left h4 {
+        font-size: 34px;
+        text-align: center;
+        margin-top: 50px;
+    }
+    .expert-left p {
+        font-size: 16px;
+        margin: 20px 0;
+        text-align: center;
+    }
+    .expert-left ul {
+        text-align: center;
+    }
+    .expert-left ul li a,
+    .expert-left ul li {
+        font-size: 18px;
+        text-align: center;
+    }
+    .expert-area {
+        padding: 280px 0 60px;
+    }
+    .business-cnt h2 {
+        font-size: 30px;
+    }
+    .business-cnt h2 br {
+        display: none;
+    }
+    .business-cnt p {
+        font-size: 16px;
+    }
+    .bus-overlay {
+        padding: 80px 0 70px;
+    }
+    .contact-upper h2 {
+        font-size: 32px;
+    }
+    .contact-area form input,
+    .contact-area form textarea {
+        font-size: 16px;
+        padding: 12px 15px;
+    }
+    .contact-area form {
+        padding-top: 35px;
+    }
+    .contact-area {
+        padding: 70px 0;
+    }
+    .contact-area form [type="submit"] {
+        max-width: 210px;
+    }
+    .footer-area {
+        padding: 600px 0 50px;
+        background-size: cover;
+        background-position: 58%;
+        margin-top: -140px;
+    }
+    .footer-item img {
+        max-width: 180px;
+    }
+    .footer-item p {
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .footer-item h4 {
+        font-size: 24px;
+    }
+    .footer-item ul li a {
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .social-media ul li img {
+        max-width: 55px;
+    }
+    .social-media ul li {
+        padding-right: 25px;
+    }
+    .footer-item {
+        margin-top: 50px;
+        text-align: center;
+    }
+    .copy-right p {
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .navbar-nav li .dropdown-menu {
+        max-width: 185px;
+    }
+
+    .headcnt-left h4 {
+        font-size: 34px;
+    }
+
+    .headcnt-right {
+        margin-top: 25px;
+    }
+
+    .rokcnt-left h4  {
+        font-size: 50px;
+    }
+
+    .rokcnt-right p {
+        font-size: 18px;
+    }
+
+    .rokcnt-left {
+        padding: 240px 0 50px;
+        position: relative;
+        top: 160px;
+    }
+
+    .rokcnt-right {
+        padding: 140px 0;
+    }
+
+    .abtrok-main {
+        margin-top: -810px;
+    }
+
+    .abthead-cnt {
+        padding-top: 100px;
+    }
+
+    .mission-right {
+        padding: 30px 25px;
+        padding-top: 80px;
+        margin-top: -70px;
+    }
+
+    .mission-right h4 {
+        font-size: 38px;
+    }
+
+    .mission-right p {
+        font-size: 15px;
+        margin-top: 10px;
+    }
+
+    .mission-area {
+        padding: 250px 0 70px;
+        position: relative;
+        margin-top: -250px;
+    }
+
+    .mission-left {
+        margin-right: 0px;
+        margin-top: 0px;
+    }
+
+    .line-abt img {
+       display: none;
+    }
+
+    .choose-areab h2 {
+        font-size: 36px;
+        margin-bottom: 30px;
+    }
+
+    .choose-areab p {
+        font-size: 17px;    
+    }
+
+    .choose-areab {
+        padding: 80px 0 70px;
+    }
+
+    .choose-areab span {
+        width: 170px;
+        margin: 35px auto;
+    }
+
+
+}
